@@ -4,7 +4,8 @@ Esse projeto foi elaborado [nesse tutorial]() para explorar a configuração de 
 
 ## Roteiro
 - [ ] Aplicação sem uso de cache
-- [ ] Adicionar cache em memória
+- [ ] Adicionar padrão cache em memória
+- [ ] Adicionar cache com o Redis
 - [ ] Considerações finais
 
 ## Referências
